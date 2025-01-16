@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.work-sans-font {
+  font-family: "Work Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+/*dark-2*/
+.text-gray{
+    color: #424242;
+}
+/*dark-3*/
+.text-light-gray{
+    color: #727272;
+}
+/*shared style*/
+.display-flex{
+    display: flex;
+}
+/*header styles*/
+/*nav-bar styles*/
+.nav-items{
+    list-style: none;
+    margin-right: 30px;
+}
